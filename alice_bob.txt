@@ -1,0 +1,70 @@
+la valeur  74521875839 correspond à g exposant 996565889 
+ la valeur  76 correspond à g exposant 98 
+ /*************** Test Pohlig- Hellman *********************/ 
+ 2 avec multiplicité 2 
+ 3 avec multiplicité 2 
+ 5 avec multiplicité 2 
+ 17 avec multiplicité 1 
+ 1409 avec multiplicité 1 
+ 26107 avec multiplicité 1 
+ 45557 avec multiplicité 1 
+ 48761 avec multiplicité 1 
+ 57367 avec multiplicité 1 
+ 58511 avec multiplicité 1 
+ 99017 avec multiplicité 1 
+ 103319 avec multiplicité 1 
+ 104107 avec multiplicité 1 
+ 111427 avec multiplicité 1 
+ 121123 avec multiplicité 1 
+ 124147 avec multiplicité 1 
+ 180731 avec multiplicité 1 
+ 193723 avec multiplicité 1 
+ 198859 avec multiplicité 1 
+ 201781 avec multiplicité 1 
+ 206749 avec multiplicité 1 
+ 219407 avec multiplicité 1 
+ 325667 avec multiplicité 1 
+ 343933 avec multiplicité 1 
+ 370949 avec multiplicité 1 
+ 399149 avec multiplicité 1 
+ 400291 avec multiplicité 1 
+ 411007 avec multiplicité 1 
+ 448057 avec multiplicité 1 
+ 453907 avec multiplicité 1 
+ 455033 avec multiplicité 1 
+ 479209 avec multiplicité 1 
+ 493607 avec multiplicité 1 
+ 500443 avec multiplicité 1 
+ 507589 avec multiplicité 1 
+ 531017 avec multiplicité 1 
+ 596963 avec multiplicité 1 
+ 612049 avec multiplicité 1 
+ 676337 avec multiplicité 1 
+ 687893 avec multiplicité 1 
+ 730619 avec multiplicité 1 
+ 779231 avec multiplicité 1 
+ 786889 avec multiplicité 1 
+ 806257 avec multiplicité 1 
+ 806609 avec multiplicité 1 
+ 850457 avec multiplicité 1 
+ 852263 avec multiplicité 1 
+ 868397 avec multiplicité 1 
+ 900233 avec multiplicité 1 
+ 914701 avec multiplicité 1 
+ 928399 avec multiplicité 1 
+ 957811 avec multiplicité 1 
+ 967061 avec multiplicité 1 
+ 992737 avec multiplicité 1 
+ 998813 avec multiplicité 1 
+ 1007047 avec multiplicité 1 
+ 1023719 avec multiplicité 1 
+ 1038487 avec multiplicité 1 
+ 1041421 avec multiplicité 1 
+ c'est  bon 
+
+
+
+*************  Oh Oh Oh **************** 
+
+Le secret partagé par Alice et Bob est
+ 14434089825169254449357330597076098747071176225628793188589672325051447517933996697089344103593864946390878636186781929213379157700776870265769476119585368406662342135438753379684305011877309613962291971656035008016831997618905614467538753170748260217821327916949769257133569153386425893656043204535060829378
